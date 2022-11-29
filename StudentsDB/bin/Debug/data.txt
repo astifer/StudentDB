@@ -1,0 +1,2 @@
+{"_Id":32,"Name":"Artem","Birthday":"2004-12-03T10:10:10","Insitute":"Misis","Group":"bivt-22-2","Course":1,"AvgMark":4.5,"create":"2022-11-29T08:55:28.1288672+03:00"}
+{"_Id":78,"Name":"Igor","Birthday":"2002-04-06T10:10:10","Insitute":"Misis","Group":"bivt-20-8","Course":3,"AvgMark":4.2,"create":"2022-11-29T08:55:28.130869+03:00"}

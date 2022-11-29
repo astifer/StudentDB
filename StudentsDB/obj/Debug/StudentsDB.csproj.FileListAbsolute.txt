@@ -1,0 +1,11 @@
+D:\c#\Лр\laba2\Student\StudentsDB\StudentsDB\bin\Debug\StudentsDB.exe.config
+D:\c#\Лр\laba2\Student\StudentsDB\StudentsDB\bin\Debug\StudentsDB.exe
+D:\c#\Лр\laba2\Student\StudentsDB\StudentsDB\bin\Debug\StudentsDB.pdb
+D:\c#\Лр\laba2\Student\StudentsDB\StudentsDB\bin\Debug\Newtonsoft.Json.dll
+D:\c#\Лр\laba2\Student\StudentsDB\StudentsDB\bin\Debug\Newtonsoft.Json.xml
+D:\c#\Лр\laba2\Student\StudentsDB\StudentsDB\obj\Debug\StudentsDB.csproj.AssemblyReference.cache
+D:\c#\Лр\laba2\Student\StudentsDB\StudentsDB\obj\Debug\StudentsDB.csproj.SuggestedBindingRedirects.cache
+D:\c#\Лр\laba2\Student\StudentsDB\StudentsDB\obj\Debug\StudentsDB.csproj.CoreCompileInputs.cache
+D:\c#\Лр\laba2\Student\StudentsDB\StudentsDB\obj\Debug\StudentsDB.csproj.CopyComplete
+D:\c#\Лр\laba2\Student\StudentsDB\StudentsDB\obj\Debug\StudentsDB.exe
+D:\c#\Лр\laba2\Student\StudentsDB\StudentsDB\obj\Debug\StudentsDB.pdb
